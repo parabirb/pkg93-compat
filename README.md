@@ -6,3 +6,4 @@ This is a port of all of (the now defunct) pkg93's packages to sus93.
 * gs45 (NES emulator)
 * helloworld (self-explanatory)
 * wget93 (wget for Windows 93)
+* minecraft (Alpha version of Minecraft)
